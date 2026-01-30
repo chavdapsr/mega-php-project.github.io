@@ -191,3 +191,4 @@ This is a learning project. Feel free to fork, modify, and experiment!
 - [PDO Documentation](https://www.php.net/manual/en/book.pdo.php)
 - [PSR-4 Autoloading](https://www.php-fig.org/psr/psr-4/)
 # mega-php-project.github.io
+# mega-php-project.github.io
